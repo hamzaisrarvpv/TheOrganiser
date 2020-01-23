@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: eb4453bf64b97e147b5554625e3e9483
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 005549047c38edd48a2b5147ce6d788d
+  - enabled: 0
+    path: Assets/Scenes/RelaxPopup.unity
+    guid: e835825500d3bb64fb12bfbbbbc6db34
+  - enabled: 1
+    path: Assets/Scenes/ChangeStudyTime.unity
+    guid: 4269f8815e010c14c8b900402f5d4a66
+  - enabled: 1
+    path: Assets/Scenes/RelaxMode.unity
+    guid: 4d90fcef2e56d5249b81ddd69af0f496
+  - enabled: 0
+    path: Assets/Versions/V1.unity
+    guid: 92b30d0aefc7ca34aade512cd3f4eaba
+  - enabled: 1
+    path: Assets/Scenes/ChangeName.unity
+    guid: 5314af7dd8ca7c6428dc4aa00c5a3ca5
+  - enabled: 1
+    path: Assets/Scenes/DonateNow.unity
+    guid: c6a9cb8363b0afc46bb4fda74b31bf13
+  - enabled: 1
+    path: Assets/Scenes/ChangeColorScheme.unity
+    guid: 2a4b52275ec3a50459463cc0b09dc454
+  - enabled: 1
+    path: Assets/Scenes/ManageClasses.unity
+    guid: 37cc03dc58a47dd469e91cae853b452f
+  - enabled: 0
+    path: Assets/Scenes/NotificationTest.unity
+    guid: a20abd22c9aa30d4f87d92979ec64b96
+  - enabled: 0
+    path: Assets/Scenes/NativePopup.unity
+    guid: 4af78f42185f74bf9a2132c9c72b22e4
+  - enabled: 0
+    path: Assets/Scenes/Popup.unity
+    guid: 33896d8cfff8346428378cdc7dca5cce
+  - enabled: 0
+    path: Assets/Scenes/ColourPalleteChooser.unity
+    guid: ffd74da68a251e0468e887dc5586c1af
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
